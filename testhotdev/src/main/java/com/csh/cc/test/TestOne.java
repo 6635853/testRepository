@@ -24,4 +24,7 @@ public class TestOne {
 		
 	}
 	
+	public void mm() {
+		
+	}
 }
