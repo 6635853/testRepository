@@ -24,4 +24,8 @@ public class TestOne {
 		
 	}
 	
+	public void dd1() {
+		
+	}
+	
 }
