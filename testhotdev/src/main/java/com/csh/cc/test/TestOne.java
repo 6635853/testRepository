@@ -15,4 +15,8 @@ public class TestOne {
 	public void name1() {
 		
 	}
+	
+	public void name2() {
+		
+	}
 }
