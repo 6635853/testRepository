@@ -1,0 +1,72 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>hotdev</groupId>
+	<artifactId>testhotdev</artifactId>
+	<version>0.0.1</version>
+	<packaging>war</packaging>
+
+	<!-- 添加依赖 -->
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>4.1.6.RELEASE</version>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.2</version>
+		</dependency>
+	</dependencies>
+
+	<!-- 添加使用私服信息 配置这些并不能实现上传只能下载，如果需要上传需要配置下边的build -->
+	<distributionManagement>
+		<repository>
+			<id>nexus-releases</id>
+			<name>Nexus Release Repository</name>
+			<url>http://192.168.195.132:8081/nexus/content/repositories/releases/</url>
+		</repository>
+		<snapshotRepository>
+			<id>nexus-snapshots</id>
+			<name>Nexus Snapshot Repository</name>
+			<url>http://192.168.195.132:8081/nexus/content/repositories/snapshots/</url>
+		</snapshotRepository>
+		
+	</distributionManagement>
+
+	<!-- 添加tomcat插件 -->
+	<build>
+		<plugins>
+			<!-- 配置私服上传jar包括源码插件 -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>2.1.2</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+
+			<!-- 配置tomcat插件 -->
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<version>2.2</version>
+				<configuration>
+					<!-- 使用热部署 -->
+					<path>/csh</path>
+					<url>http://localhost:8080/manager/text</url>
+					<username>tomcat</username>
+					<password>123456</password>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>
