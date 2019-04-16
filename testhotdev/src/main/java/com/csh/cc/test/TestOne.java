@@ -20,7 +20,4 @@ public class TestOne {
 		
 	}
 	
-	public void name3() {
-		
-	}
 }
