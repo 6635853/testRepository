@@ -1,0 +1,2177 @@
+2019-04-17 08:20:23  [ main:0 ] - [ INFO ]   load properties start !
+2019-04-17 08:20:23  [ main:7 ] - [ INFO ]   load properties end, SUCCESS !
+2019-04-17 08:20:24  [ main:190 ] - [ INFO ]   test.file is :application.properties
+2019-04-17 08:20:24  [ main:216 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 08:20:24  [ main:251 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 08:20:24  [ main:251 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:08  [ main:0 ] - [ INFO ]   load properties start !
+2019-04-17 09:33:08  [ main:3 ] - [ INFO ]   load properties end, SUCCESS !
+2019-04-17 09:33:08  [ main:196 ] - [ INFO ]   test.file is :application.properties
+2019-04-17 09:33:08  [ main:217 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:33:08  [ main:258 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:08  [ main:258 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:09  [ main:940 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:33:11 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:33:09  [ main:940 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:33:09  [ main:1229 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:33:09  [ main:1231 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:09  [ main:1231 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:09  [ main:1367 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:33:12 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:33:09  [ main:1367 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:33:10  [ main:1577 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:33:10  [ main:1579 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:10  [ main:1580 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:10  [ main:1931 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:33:12 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:33:10  [ main:1932 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:33:10  [ main:2141 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:33:10  [ main:2143 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:10  [ main:2144 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:33:10  [ main:2448 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:33:13 GMT, Content-length: 172682] ResponseEntityProxy{[Content-Length: 172682,Chunked: false]}}
+2019-04-17 09:33:10  [ main:2449 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 172682,Chunked: false]}
+2019-04-17 09:33:11  [ main:2593 ] - [ INFO ]   tempList size is :365
+2019-04-17 09:33:11  [ main:2616 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006795" querypage="0" />
+
+
+2019-04-17 09:33:11  [ main:2617 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:33:11  [ main:2617 ] - [ INFO ]   List Size Is :365
+2019-04-17 09:33:12  [ main:4064 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:33:12  [ main:4065 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_724499
+2019-04-17 09:33:12  [ main:4066 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:33:12  [ main:4338 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:33:12  [ main:4440 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:33:12  [ main:4441 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_724499
+2019-04-17 09:33:12  [ main:4441 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:33:13  [ main:4588 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:33:13  [ main:4691 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:33:13  [ main:4692 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_724499
+2019-04-17 09:33:13  [ main:4692 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:33:13  [ main:4735 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:33:13  [ main:4813 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:33:13  [ main:4813 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_724499
+2019-04-17 09:33:13  [ main:4814 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:33:13  [ main:4973 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:33:13  [ main:5041 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:33:13  [ main:5041 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_724499
+2019-04-17 09:33:13  [ main:5041 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:33:13  [ main:5068 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 63
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 185
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 3
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 111
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 3
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:33:13  [ main:5069 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:36:26  [ main:0 ] - [ INFO ]   load properties start !
+2019-04-17 09:36:26  [ main:2 ] - [ INFO ]   load properties end, SUCCESS !
+2019-04-17 09:36:26  [ main:169 ] - [ INFO ]   test.file is :application.properties
+2019-04-17 09:36:26  [ main:189 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:36:26  [ main:228 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:26  [ main:228 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:27  [ main:771 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:36:29 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:36:27  [ main:772 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:36:27  [ main:1014 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:36:27  [ main:1016 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:27  [ main:1016 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:27  [ main:1041 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:36:29 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:36:27  [ main:1041 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:36:27  [ main:1249 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:36:27  [ main:1251 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:27  [ main:1251 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:27  [ main:1300 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:36:30 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:36:27  [ main:1300 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:36:28  [ main:1512 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:36:28  [ main:1514 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:28  [ main:1514 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 14:30:00</endtime>
+</info>
+
+
+2019-04-17 09:36:28  [ main:1594 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:36:30 GMT, Content-length: 172682] ResponseEntityProxy{[Content-Length: 172682,Chunked: false]}}
+2019-04-17 09:36:28  [ main:1594 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 172682,Chunked: false]}
+2019-04-17 09:36:28  [ main:1744 ] - [ INFO ]   tempList size is :365
+2019-04-17 09:36:28  [ main:1784 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006739" querypage="0" />
+
+
+2019-04-17 09:36:28  [ main:1785 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:36:28  [ main:1785 ] - [ INFO ]   List Size Is :365
+2019-04-17 09:36:29  [ main:2959 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:36:29  [ main:2960 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_226562
+2019-04-17 09:36:29  [ main:2960 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:36:29  [ main:3117 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:36:29  [ main:3178 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:36:29  [ main:3178 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_226562
+2019-04-17 09:36:29  [ main:3179 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:36:29  [ main:3276 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:36:29  [ main:3317 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:36:29  [ main:3317 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_226562
+2019-04-17 09:36:29  [ main:3317 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:36:31  [ main:5213 ] - [ INFO ]   RuKu Time :1s
+2019-04-17 09:36:31  [ main:5278 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:36:31  [ main:5278 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_226562
+2019-04-17 09:36:31  [ main:5279 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:36:31  [ main:5377 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:36:32  [ main:5607 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:36:32  [ main:5607 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_226562
+2019-04-17 09:36:32  [ main:5607 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:36:32  [ main:5649 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:36:32  [ main:5649 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 63
+2019-04-17 09:36:32  [ main:5649 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 185
+2019-04-17 09:36:32  [ main:5649 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 3
+2019-04-17 09:36:32  [ main:5649 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 111
+2019-04-17 09:36:32  [ main:5649 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 3
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:36:32  [ main:5650 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:39:07  [ main:0 ] - [ INFO ]   load properties start !
+2019-04-17 09:39:07  [ main:2 ] - [ INFO ]   load properties end, SUCCESS !
+2019-04-17 09:39:07  [ main:187 ] - [ INFO ]   test.file is :application.properties
+2019-04-17 09:39:07  [ main:208 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:39:07  [ main:252 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:07  [ main:253 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:08  [ main:929 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:39:10 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:39:08  [ main:930 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:39:08  [ main:1184 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:39:08  [ main:1185 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:08  [ main:1186 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:08  [ main:1318 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:39:10 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:39:08  [ main:1318 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:39:08  [ main:1518 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:39:08  [ main:1528 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:08  [ main:1529 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:09  [ main:1762 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:39:11 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:39:09  [ main:1762 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:39:09  [ main:1972 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:39:09  [ main:1976 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:09  [ main:1977 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:39:09  [ main:2175 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:39:11 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:39:09  [ main:2176 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:39:09  [ main:2353 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:39:09  [ main:2375 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006966" querypage="0" />
+
+
+2019-04-17 09:39:09  [ main:2376 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:39:09  [ main:2376 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:39:12  [ main:4708 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:39:12  [ main:4708 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_698311
+2019-04-17 09:39:12  [ main:4708 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:39:12  [ main:5010 ] - [ ERROR ]   入库失败 java.sql.BatchUpdateException: ORA-00942: 表或视图不存在
+
+2019-04-17 09:39:12  [ main:5058 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:39:12  [ main:5058 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_698311
+2019-04-17 09:39:12  [ main:5058 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:39:12  [ main:5113 ] - [ ERROR ]   入库失败 java.sql.BatchUpdateException: ORA-00942: 表或视图不存在
+
+2019-04-17 09:39:12  [ main:5132 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:39:12  [ main:5133 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_698311
+2019-04-17 09:39:12  [ main:5133 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:39:12  [ main:5135 ] - [ ERROR ]   入库失败 java.sql.BatchUpdateException: ORA-00942: 表或视图不存在
+
+2019-04-17 09:39:12  [ main:5236 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:39:12  [ main:5236 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_698311
+2019-04-17 09:39:12  [ main:5236 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:39:12  [ main:5257 ] - [ ERROR ]   入库失败 java.sql.BatchUpdateException: ORA-00942: 表或视图不存在
+
+2019-04-17 09:39:12  [ main:5315 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:39:12  [ main:5316 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_698311
+2019-04-17 09:39:12  [ main:5316 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:39:12  [ main:5320 ] - [ ERROR ]   入库失败 java.sql.BatchUpdateException: ORA-00942: 表或视图不存在
+
+2019-04-17 09:39:12  [ main:5321 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 76
+2019-04-17 09:39:12  [ main:5321 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 221
+2019-04-17 09:39:12  [ main:5321 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 3
+2019-04-17 09:39:12  [ main:5321 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 127
+2019-04-17 09:39:12  [ main:5321 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:39:12  [ main:5322 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:39:12  [ main:5322 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:39:12  [ main:5322 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:39:12  [ main:5322 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 5
+2019-04-17 09:39:12  [ main:5322 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:39:12  [ main:5322 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:39:12  [ main:5322 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:39:12  [ main:5323 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:39:12  [ main:5323 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:39:12  [ main:5323 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:41:23  [ main:0 ] - [ INFO ]   load properties start !
+2019-04-17 09:41:23  [ main:2 ] - [ INFO ]   load properties end, SUCCESS !
+2019-04-17 09:41:23  [ main:175 ] - [ INFO ]   test.file is :application.properties
+2019-04-17 09:41:23  [ main:194 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:41:24  [ main:230 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:24  [ main:230 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:24  [ main:798 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:41:26 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:41:24  [ main:798 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:41:24  [ main:1053 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:41:24  [ main:1056 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:24  [ main:1056 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:24  [ main:1084 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:41:27 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:41:24  [ main:1084 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:41:25  [ main:1294 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:41:25  [ main:1296 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:25  [ main:1296 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:25  [ main:1341 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:41:27 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:41:25  [ main:1341 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:41:25  [ main:1543 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:41:25  [ main:1544 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:25  [ main:1544 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:41:25  [ main:1631 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:41:27 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:41:25  [ main:1631 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:41:25  [ main:1807 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:41:25  [ main:1830 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006787" querypage="0" />
+
+
+2019-04-17 09:41:25  [ main:1831 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:41:25  [ main:1831 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:41:26  [ main:2345 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:41:26  [ main:2345 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_772784
+2019-04-17 09:41:26  [ main:2346 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:41:26  [ main:2817 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:41:26  [ main:2851 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:41:26  [ main:2851 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_772784
+2019-04-17 09:41:26  [ main:2851 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:41:26  [ main:2905 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:41:26  [ main:2976 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:41:26  [ main:2976 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_772784
+2019-04-17 09:41:26  [ main:2976 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:41:26  [ main:3009 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:41:26  [ main:3037 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:41:26  [ main:3037 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_772784
+2019-04-17 09:41:26  [ main:3037 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:41:26  [ main:3064 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:41:26  [ main:3089 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:41:26  [ main:3089 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_772784
+2019-04-17 09:41:26  [ main:3089 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:41:26  [ main:3097 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 76
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 221
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 3
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 127
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 5
+2019-04-17 09:41:26  [ main:3098 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:41:26  [ main:3099 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:41:26  [ main:3099 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:41:26  [ main:3099 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:41:26  [ main:3099 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:41:26  [ main:3099 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:0 ] - [ INFO ]   load properties start !
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:3 ] - [ INFO ]   load properties end, SUCCESS !
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:182 ] - [ INFO ]   test.file is :application.properties
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:204 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:203 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:204 ] - [ INFO ]   >>>>>>>>>>>>>>>>>>> imsi 
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:244 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:244 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:246 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:246 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:249 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:249 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:252 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:252 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:253 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:253 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:258 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:259 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:261 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:262 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:263 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:263 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:263 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:263 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:264 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:264 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>3</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:875 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:875 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:875 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:875 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:876 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:875 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:876 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:875 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:877 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:877 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:880 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:880 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:881 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:881 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:882 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:882 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:883 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:883 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:883 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:16  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:883 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1111 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1112 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1114 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1114 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1117 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1119 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1119 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1112 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1123 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1124 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1125 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1126 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1118 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1117 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1127 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1127 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1114 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1131 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1131 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1142 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1142 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1160 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1170 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1171 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1173 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1173 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1161 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1179 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1160 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1183 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1186 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1189 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1189 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1195 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1195 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1197 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1197 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1200 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1204 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1204 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>4</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1205 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1205 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1208 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1208 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1211 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1212 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1222 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1222 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1229 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1229 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1370 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1371 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1371 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1383 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1384 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1384 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1386 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1387 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1387 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1389 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1389 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1390 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1397 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1398 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1398 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1402 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1403 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1404 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1406 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1417 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1419 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1419 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1420 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1420 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1420 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1420 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1421 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1421 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1421 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1421 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1429 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1429 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1430 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1430 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1430 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1430 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1430 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1437 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1437 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1440 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1441 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1441 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>7</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1443 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1444 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1444 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1444 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1453 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1453 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1462 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 89] ResponseEntityProxy{[Content-Length: 89,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1462 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 89,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1608 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1609 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1609 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1617 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1618 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1618 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1621 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1621 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1621 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1642 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1642 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1643 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1643 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1643 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1643 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1648 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1649 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1649 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1656 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1658 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1658 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1658 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1658 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1658 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1664 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1664 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1664 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1671 ] - [ INFO ]   tempList size is :0
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1672 ] - [ INFO ]   Element <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1672 ] - [ INFO ]  <?xml version="1.0" encoding="UTF-8"?>
+<info commandid="1" eventid="0" querypage="1">
+  <resultsize>5000</resultsize>
+  <pagesize>1000</pagesize>
+  <datatype>6</datatype>
+  <msisdn />
+  <imsi>460001705375035</imsi>
+  <starttime>2019-04-04 14:00:00</starttime>
+  <endtime>2019-04-04 15:30:00</endtime>
+</info>
+
+
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1686 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:1686 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1726 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:1726 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1740 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:1740 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1743 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:1743 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1783 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:1783 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1821 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:1821 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1822 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:1822 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1827 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:1827 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1827 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:1827 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1838 ] - [ INFO ]   response :HttpResponseProxy{HTTP/1.1 200 OK [Date: Wed, 17 Apr 2019 01:42:19 GMT, Content-length: 201903] ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}}
+2019-04-17 09:42:17  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:1844 ] - [ INFO ]  ResponseEntityProxy{[Content-Length: 201903,Chunked: false]}
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:2965 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:2946 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:18  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:2929 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:3060 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:3200 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:3327 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:3071 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:3338 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006439" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:3339 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:3339 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:3219 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:3405 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006694" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:3406 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:3406 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:3424 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006145" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:3425 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:3425 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:3441 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:3443 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006793" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:3444 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:3444 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:3479 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006279" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:3480 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:3480 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:3488 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006992" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:3489 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:3489 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:3527 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006838" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:3528 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:3528 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:3538 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006398" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:3539 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:3539 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:3640 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006910" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:3641 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:3641 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:3677 ] - [ INFO ]   tempList size is :432
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:3697 ] - [ INFO ]   Release ---- >> :<?xml version="1.0" encoding="UTF-8"?>
+<info commandid="0" eventid="006630" querypage="0" />
+
+
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:3697 ] - [ INFO ]   Release SUCCESS! 
+2019-04-17 09:42:19  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:3697 ] - [ INFO ]   List Size Is :432
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4065 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4066 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4087 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4087 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4089 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4090 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4092 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4092 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4092 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4093 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4093 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4094 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4094 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4094 ] - [ INFO ]   Create TableName : XDR_S1_U_COMMON_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4163 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4163 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4163 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4164 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4164 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4165 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4167 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4167 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4168 ] - [ ERROR ]   入库失败 java.sql.SQLException: 索引中丢失  IN 或 OUT 参数:: 20
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4167 ] - [ ERROR ]   入库失败 java.sql.SQLException: 索引中丢失  IN 或 OUT 参数:: 20
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4171 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4172 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4172 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4179 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4179 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4193 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4193 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4193 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4197 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4198 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4197 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4198 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4199 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4199 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4200 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4203 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4204 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4208 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4209 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4209 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4212 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4213 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4213 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4214 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4220 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4231 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4231 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4232 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4233 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4252 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4252 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4253 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4253 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4253 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4334 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4334 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4335 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4346 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4347 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4347 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4378 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4378 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4383 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4384 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4384 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4385 ] - [ ERROR ]   入库失败 java.sql.SQLException: 索引中丢失  IN 或 OUT 参数:: 20
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4389 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4389 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4391 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4393 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4393 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4397 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4399 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4399 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4401 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4399 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4399 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4403 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4403 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4409 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4410 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4411 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4411 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4411 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4412 ] - [ ERROR ]   入库失败 java.sql.SQLException: 索引中丢失  IN 或 OUT 参数:: 1
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4413 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4416 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4422 ] - [ ERROR ]   入库失败 java.sql.SQLException: 索引中丢失  IN 或 OUT 参数:: 20
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4431 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4477 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4477 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4477 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4490 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4490 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4496 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4496 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4496 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4499 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4501 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4501 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4504 ] - [ INFO ]   RuKu Time :0s
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4515 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4516 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4517 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4517 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4518 ] - [ INFO ]   Create TableName : XDR_S1_U_DNS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4528 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4529 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4529 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4529 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4535 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4535 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4536 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4542 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4555 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4555 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4555 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4556 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4559 ] - [ INFO ]   Create Table Success!0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4559 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4566 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4567 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4570 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4586 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4586 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4587 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4591 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4591 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4592 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4596 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4596 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4599 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4602 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4602 ] - [ INFO ]   Create TableName : XDR_S1_U_MMS_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4602 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4603 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4603 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4608 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4608 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4609 ] - [ ERROR ]   入库失败 java.sql.SQLException: 索引中丢失  IN 或 OUT 参数:: 1
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4610 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :4:4612 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4615 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4615 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4615 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4616 ] - [ ERROR ]   入库失败 java.sql.SQLException: 无效的列索引
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4616 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4617 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4621 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4621 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4622 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4624 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4624 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4625 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :2:4629 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4623 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4629 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4627 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4627 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4631 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4627 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4624 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4636 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :0:4636 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4636 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4649 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4651 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4651 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :3:4781 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4782 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4782 ] - [ INFO ]   Create TableName : XDR_S1_U_HTTP_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4782 ] - [ INFO ]   Start Paragation 
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4783 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4798 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4798 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4798 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4798 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4798 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :6:4802 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4804 ] - [ ERROR ]   入库失败 java.sql.SQLException: 语句已关闭: 语句已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4804 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4805 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4805 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4805 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4822 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4824 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :1:4825 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4825 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4826 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4827 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4827 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4827 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4827 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4827 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4827 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :9:4827 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4821 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :7:4827 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4816 ] - [ INFO ]   Create Table Failed!java.sql.SQLSyntaxErrorException: ORA-00955: 名称已由现有对象使用
+
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4828 ] - [ INFO ]   Create TableName : XDR_S1_U_IM_397073
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4828 ] - [ ERROR ]   入库失败 java.sql.SQLException: 连接已关闭: 连接已关闭
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4829 ] - [ INFO ]   S1_U_COMMON === s1uCommonList Size Is : 760
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4829 ] - [ INFO ]   S1_U_DNS === s1uDnsList Size Is : 2210
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4829 ] - [ INFO ]   S1_U_MMS === s1uMmsList Size Is : 30
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4829 ] - [ INFO ]   S1_U_HTTP === s1uHttpList Size Is : 1270
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4829 ] - [ INFO ]   S1_U_FTP === s1uFtpList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4829 ] - [ INFO ]   S1_U_EMAIL === s1uEmailList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :8:4830 ] - [ INFO ]   S11  === s11List Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4805 ] - [ INFO ]   S1_U_VOIP  === s1uVoipList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4830 ] - [ INFO ]   S1_U_RTSP === s1uRtspList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4830 ] - [ INFO ]   S1_U_IM === s1uImList Size Is : 50
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4831 ] - [ INFO ]   S1_U_P2P === s1uP2pList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4831 ] - [ INFO ]   S1_U_VIDEO === s1uVideoList Size Is : 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4831 ] - [ INFO ]   list10  === list10 Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4831 ] - [ INFO ]   S1MME  === s1MmeList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4831 ] - [ INFO ]   S6a  === s6aList Size Is 0
+2019-04-17 09:42:20  [  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Thread >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> - :5:4831 ] - [ INFO ]   S11  === s11List Size Is 0
